@@ -4,5 +4,6 @@
 
 int foo () {
   std::cout << "This is foo!" << std::endl;
+  return 0;
 }
 

@@ -6,5 +6,6 @@
 int bar () {
   foo ();
   std::cout << "This is bar!" << std::endl;
+  return 0;
 }
 
